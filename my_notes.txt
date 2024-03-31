@@ -1,0 +1,3 @@
+Nota 1: Estoy feliz de ser estudiante de la UEA.
+Nota 2: Ha sido muy bonita la experiencia de aprender a programar.
+Nota 3: Seguire adquiriendo conocimientos en progrmacion.
